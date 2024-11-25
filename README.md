@@ -46,10 +46,11 @@ The app establishes a connection with Bluetooth-enabled devices using the Blueto
 ---
 
 ### Screenshots
-![WhatsApp Image 2024-11-25 at 10 50 41_9650e558](https://github.com/user-attachments/assets/1171f338-2887-435e-a12f-8d19ce332f96)
-![WhatsApp Image 2024-11-25 at 10 51 05_ffd4e8e5](https://github.com/user-attachments/assets/559b561c-d2f2-490e-b594-650502bd5413)
-![WhatsApp Image 2024-11-25 at 10 51 21_f53b153c](https://github.com/user-attachments/assets/144be1a0-162a-42ab-8820-61c41154ae54)
-![WhatsApp Image 2024-11-25 at 10 51 35_cb176cb7](https://github.com/user-attachments/assets/4e8f1e72-ae45-4383-b83d-4a519ddeb98a)
+
+  ![WhatsApp Image 2024-11-25 at 10 50 41_9650e558](https://github.com/user-attachments/assets/1171f338-2887-435e-a12f-8d19ce332f96)
+  ![WhatsApp Image 2024-11-25 at 10 51 05_ffd4e8e5](https://github.com/user-attachments/assets/559b561c-d2f2-490e-b594-650502bd5413)
+  ![WhatsApp Image 2024-11-25 at 10 51 21_f53b153c](https://github.com/user-attachments/assets/144be1a0-162a-42ab-8820-61c41154ae54)
+  ![WhatsApp Image 2024-11-25 at 10 51 35_cb176cb7](https://github.com/user-attachments/assets/4e8f1e72-ae45-4383-b83d-4a519ddeb98a)
 
 ---
 ## Installation
